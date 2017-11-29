@@ -1,0 +1,38 @@
+{
+  "blog": [
+   
+    
+    {
+      "title": "Javascript and Functional Programming: An Introduction ",
+      "author": "kush",
+      "logo": "https://cdn-images-1.medium.com/max/2000/1*N-SQXSMJHCZzC7JNUOBxSg.png",
+      "category": "Technology",
+      "content": "I’ve always been about the bottom line. Uninterested in pseudo intellectual concepts, fancy terminology and hype. Instead, I always reach for the tools and technologies that help me ship code as soon as possible. This approach was initially productive — specifically when I was building smaller “proof of concept” applications.",
+      "date": "Fri Nov 17 2017",
+      "id": "NnIZIdW"
+    },
+    {
+      "title": "Losing Louis",
+      "author": "kush",
+      "logo": "https://cdn-images-1.medium.com/max/1200/1*s2-aEatYZjn_VtHysHbV2g.jpeg",
+      "category": "Politics",
+      "content": "At the beginning of the year, I sat on the edge of my nosebleed seat in Portland’s crowded Moda Center as Louis C.K. took the stage to thunderous applause.\nAs he performed, dressed in a suit rather than his classic t-shirt and jeans, I laughed harder than I have in my life. When I stood up for his standing ovation, I honest-to-God teared up a little bit because I couldn’t believe it — he was here! He was a real, live person, performing for me! And also for hundreds of others, yes, but also for me! The elation lasted throughout the night, long after I had driven home. I felt giddy in the way that only your favorite artists can make you feel.\nIn my memory, the happiness of that night is still intact, but reliving it today feels distinctly wrong. Yesterday, The New York Times published a disturbing (and impeccably reported) story detailing allegations of sexual harassment against Louis. First and foremost, I felt horror and sadness for the women who had been hurt and kept quiet for so long. But lingering below the surface, I felt stinging betrayal, upset that a man I’d pegged as a Good Guy had done repulsive things.\nAs the entertainment industry is turned upside down by dozens of women coming forward with allegations of sexual harassment and assault against powerful men, the news of Louis’s misconduct feels different. Perhaps it is because I didn’t know who Harvey Weinstein was until his scandal broke, and I only vaguely recognized Kevin Spacey from American Beauty. In my mind, I swiftly condemned both men and their alleged actions, and I only felt sympathy and sadness for all of the victims who were sharing their stories.\nBut losing Louis feels different, more intimate. Losing him feels like losing a father.\nI found that I related Louis in ways I couldn’t with other male writers I admired. We both have Mexican fathers, but we look white. Our dads were distant, and our mothers worked hard taking care of us alone. He seemed to be raising his daughters in the way I wished I was raised by my dad, the way I hope to raise my kids.\nI was fascinated by the way he talked about ethics, sex, education, and parenting. I loved the way he said what he thought in the most truthful way, vulgarity and all. I loved the way he approached his work, and I loved the way in which he viewed the world, somehow both nihilistic and hopeful. He thought people should be grateful for the things they have, and that they shouldn’t hit their kids, and that people were not always as good as they seemed to be but had the capacity to be better.\nSometimes during his set he would make himself break, laughing as he said something that would horrify his audience and delight himself. That laugh was one of my favorite sounds.\nIn short, I adored Louis and his work, much in the way his character in I Love You, Daddy reveres John Malkovich. My consumption of his material occurred in a bubble, and I wasn’t aware until the Times story broke that he faced sexual misconduct allegations. Last night, I read the article on my phone three times through while riding the train. I didn’t feel surprise or shock; I felt sick.\nAs a young female writer, I viewed him as I’m sure his daughters do — as a fatherly figure inspiring me to challenge myself and my beliefs. After reading the Times story, I instead saw myself in the place of every one of those women, some of whom were in their early twenties (like me) and at the start of their careers (like me). That’s how he saw young women, I thought to myself. And that’s how he would treat someone like me.\nSince reading the Times story, I have been consuming every reporter and media critic’s opinion on how to deal with Louis and his work in light of these allegations. Can we separate “the art from the artist,” and view his past work without being complicit in the pain he caused? If not, can he ever be redeemed in the industry, as it seems that other controversial stars like Mel Gibson have been?\nI am 23 years old, and a big part of being a 23-year-old is feeling like I don’t know enough about anything to have an opinion. So I read the opinions of others who do know enough to have an opinion and settle on the ones that ring true. So while I don’t know how to answer any of those questions, I can say for sure that there’s no way I can watch his set, or hear his laugh, without thinking of the shame and horror those women carried around for years.\nYesterday, I lost one of my heroes, which seems to happen all too often as one gets older. But I felt some hope, as the onslaught of allegations coming to light could finally lead to a culture of accountability in which powerful men cannot abuse others. I also felt a rush of gratitude for the brave women who have been coming forward in order to make that change possible.\nThis afternoon, Louis released a statement confirming the allegations and apologizing for the pain he caused the five women who came forward. He wrote, “I have spent my long and lucky career talking and saying anything I want. I will now step back and take a long time to listen.”",
+      "date": "Fri Nov 17 2017",
+      "id": "sYajBb9"
+    }
+  ],
+  "users": [
+    {
+      "id": "kush",
+      "password": "kush",
+      "favourite": [
+        "NnIZIdW",
+        "sYajBb9"
+      ],
+      "my_blog": [
+        "sYajBb9",
+        "NnIZIdW"
+      ]
+    }
+  ]
+}
